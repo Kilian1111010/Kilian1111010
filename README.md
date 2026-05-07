@@ -1,5 +1,5 @@
 <div align="right">
-  <img src="https://github-readme-stats-bay-six-24.vercel.app/api?username=Kilian1111010&theme=chartreuse-dark&show_icons=true&hide_border=true&count_private=true" />
+  <img src="https://github-readme-stats-bay-six-24.vercel.app/api?username=Kilian1111010&theme=chartreuse-dark&show_icons=true&hide_border=true" />
   <br><br>
   <img src="https://github-readme-stats-bay-six-24.vercel.app/api/top-langs/?username=Kilian1111010&theme=chartreuse-dark&show_icons=true&hide_border=true&layout=compact" />
 </div>
